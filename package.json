@@ -1,0 +1,14 @@
+{
+  "name": "quit",
+  "version": "1.0.0",
+  "description": "<h2>Self Clinic</h2>\r <p><h4>Programming Tasks for Home - Day 2</h4></p>",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
